@@ -1,10 +1,8 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Live Demo](#live-demo)
-3. [Technologies](#technologies)
-4. [Installation](#installation)
-5. [Features](#features)
+2. [Technologies](#technologies)
+3. [Features](#features)
 ### General Info
 ***
 This web app is an online portal that enables users to register their close ones which are missing and provides interface to see their movement activities that has been tracked through our face recognition surveillance. It shows all the missing people with their images which has been reported by the stakeholder.  Agile Methodology was used for building this project. The best Agile practices adopted were :
@@ -21,7 +19,7 @@ This web app is an online portal that enables users to register their close ones
 
 
 * Documentation Link: https://drive.google.com/file/d/1BU0SRQpA34_FoaBTm4EeScGzy8bp9Bzk/view?usp=sharing
-* Demo Video: https://youtu.be/DLSFxclC47w
+
 
 ## 
 
@@ -73,34 +71,7 @@ A list of technologies used within the project:
 * React
 * Tailwind CSS
 
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://github.com/garvitbatra02/Face_recognition_Finding_missing_people
 
-```
-In Node-js server MS
-```
-$ npm install
-$ node index.js
-
-```
-In face_recognition 
-```
-$ pip install virtualenv
-$ virtualenv <my_env_name>
-$ source <my_env_name>/bin/activate
-$ pip install -r requirements.txt
-$ streamlit run main.py
-
-```
-In Frontend/frontend MS/msfrontend 
-```
-$ npm install
-$ npm start
-
-```
 
 
 ## Features
@@ -120,7 +91,7 @@ FindOne features:
 
 
 
-## Mordern World Applications
+## Modern World Applications
 
 
 * How many people go missing each year?  
